@@ -1,0 +1,4 @@
+interface IBackJoon
+{
+    void Solution();
+}
