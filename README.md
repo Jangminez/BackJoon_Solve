@@ -10,7 +10,7 @@
 | 날짜 | 문제 번호 | 문제 이름 | 난이도 | 알고리즘 | 풀이 코드 |
 | :--- | :---: | :---: | :---: | :---: | :--- |
 | 2026-01-05 | 9663 | [N-Queen](https://www.acmicpc.net/problem/9663) | <img src="https://static.solved.ac/tier_small/12.svg" width="15"/> | 백트래킹 | [풀이](./CodingTest/BackJoon/Gold/BJ9663.cs) |
-| 2026-01-05 | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | <img src="https://static.solved.ac/tier_small/8.svg" width="15"/> | 백트래킹 | [풀이](./CodingTest/BackJoon/Silver/BJ15650.cs) |
+| 2026-01-05 | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | <img src="https://static.solved.ac/tier_small/8.svg" width="15"/> | 조합 | [풀이](./CodingTest/BackJoon/Silver/BJ15650.cs) |
 | 2026-01-05 | 15649 | [N과 M (1)](https://www.acmicpc.net/problem/15649) | <img src="https://static.solved.ac/tier_small/8.svg" width="15"/> | 백트래킹 | [풀이](./CodingTest/BackJoon/Silver/BJ15649.cs) |
 | 2026-01-03 | 1987 | [알파벳](https://www.acmicpc.net/problem/1987) | <img src="https://static.solved.ac/tier_small/12.svg" width="15"/> | DFS, 백트래킹 | [풀이](./CodingTest/BackJoon/Gold/BJ1987.cs) |
 | 2026-01-03 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | <img src="https://static.solved.ac/tier_small/11.svg" width="15"/> | BFS (너비 우선 탐색) | [풀이](./CodingTest/BackJoon/Gold/BJ7576.cs) |
