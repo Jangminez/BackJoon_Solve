@@ -8,12 +8,15 @@
 ## 문제 풀이 현황
 
 | 날짜 | 문제 번호 | 문제 이름 | 난이도 | 알고리즘 | 풀이 코드 |
-| :--- | :---: | :--- | :---: | :---: | :--- |
-| 2026-01-03 | 1987 | [알파벳](https://www.acmicpc.net/problem/1987) | <img src="https://static.solved.ac/tier_small/12.svg" width="15"/> Gold 4 | DFS, 백트래킹 | [Link](./CodingTest/BackJoon/BFS%20&%20DFS/BJ1987.cs) |
-| 2026-01-03 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | <img src="https://static.solved.ac/tier_small/11.svg" width="15"/> Gold 5 | BFS (너비 우선 탐색) | [Link](./CodingTest/BackJoon/BFS%20&%20DFS/BJ7576.cs) |
-| 2026-01-03 | 2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | <img src="https://static.solved.ac/tier_small/10.svg" width="15"/> Silver 1 | BFS (최단 거리) | [Link](./CodingTest/BackJoon/BFS%20&%20DFS/BJ2178.cs) |
-| 2026-01-03 | 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | <img src="https://static.solved.ac/tier_small/9.svg" width="15"/> Silver 2 | DFS, BFS | [Link](./CodingTest/BackJoon/BFS%20&%20DFS/BJ1012.cs) |
-| 2026-01-02 | 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | <img src="https://static.solved.ac/tier_small/10.svg" width="15"/> Silver 1 | DFS, BFS (연결 요소) | [Link](./CodingTest/BackJoon/BFS%20&%20DFS/BJ2667.cs) |
-| 2026-01-02 | 1926 | [그림](https://www.acmicpc.net/problem/1926) | <img src="https://static.solved.ac/tier_small/10.svg" width="15"/> Silver 1 | BFS, DFS | [Link](./CodingTest/BackJoon/BFS%20&%20DFS/BJ1926.cs) |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+| 2026-01-05 | 9663 | [N-Queen](https://www.acmicpc.net/problem/9663) | <img src="https://static.solved.ac/tier_small/12.svg" width="15"/> | 백트래킹 | [풀이](./CodingTest/BackJoon/Gold/BJ9663.cs) |
+| 2026-01-05 | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | <img src="https://static.solved.ac/tier_small/8.svg" width="15"/> | 백트래킹 | [풀이](./CodingTest/BackJoon/Silver/BJ15650.cs) |
+| 2026-01-05 | 15649 | [N과 M (1)](https://www.acmicpc.net/problem/15649) | <img src="https://static.solved.ac/tier_small/8.svg" width="15"/> | 백트래킹 | [풀이](./CodingTest/BackJoon/Silver/BJ15649.cs) |
+| 2026-01-03 | 1987 | [알파벳](https://www.acmicpc.net/problem/1987) | <img src="https://static.solved.ac/tier_small/12.svg" width="15"/> | DFS, 백트래킹 | [풀이](./CodingTest/BackJoon/Gold/BJ1987.cs) |
+| 2026-01-03 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | <img src="https://static.solved.ac/tier_small/11.svg" width="15"/> | BFS (너비 우선 탐색) | [풀이](./CodingTest/BackJoon/Gold/BJ7576.cs) |
+| 2026-01-03 | 2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | <img src="https://static.solved.ac/tier_small/10.svg" width="15"/> | BFS (최단 거리) | [풀이](./CodingTest/BackJoon/Silver/BJ2178.cs) |
+| 2026-01-03 | 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | <img src="https://static.solved.ac/tier_small/9.svg" width="15"/> | DFS, BFS | [풀이](./CodingTest/BackJoon/BJ1012.cs) |
+| 2026-01-02 | 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | <img src="https://static.solved.ac/tier_small/10.svg" width="15"/> | DFS, BFS (연결 요소) | [풀이](./CodingTest/BackJoon/Silver/BJ2667.cs) |
+| 2026-01-02 | 1926 | [그림](https://www.acmicpc.net/problem/1926) | <img src="https://static.solved.ac/tier_small/10.svg" width="15"/> | BFS, DFS | [풀이](./CodingTest/BackJoon/Silver/BJ1926.cs) |
 
 ---

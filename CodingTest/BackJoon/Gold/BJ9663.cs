@@ -1,6 +1,6 @@
-﻿namespace BackJoon
+namespace BackJoon
 {
-    class Program
+    class BackJoon9663 : IBackJoon
     {
         /*
             ** 문제 요약 **
@@ -25,11 +25,6 @@
         static int n;
         static int[] board;
         static int cnt = 0;
-
-        static void Main(string[] args)
-        {
-            new Program().Solution();
-        }
 
         public void Solution()
         {
@@ -65,6 +60,7 @@
         {
             for (int i = 0; i < row; i++)
             {
+                // 세로 & 대각선 체크
                 if (board[i] == col || Math.Abs(row - i) == Math.Abs(col - board[i]))
                 {
                     return false;

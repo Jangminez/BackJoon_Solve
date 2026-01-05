@@ -1,5 +1,3 @@
-using System.Security.Cryptography.X509Certificates;
-
 namespace BackJoon
 {
     public class BackJoon2667 : IBackJoon
