@@ -9,6 +9,8 @@
 
 | 날짜 | 문제 번호 | 문제 이름 | 난이도 | 알고리즘 | 풀이 코드 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
+| 2026-01-06 | 14503 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | <img src="https://static.solved.ac/tier_small/11.svg" width="15"/> | 구현, 시뮬레이션 | [풀이](./CodingTest/BackJoon/Gold/BJ14503.cs) |
+| 2026-01-06 | 1655 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | <img src="https://static.solved.ac/tier_small/14.svg" width="15"/> | 자료 구조, 우선순위 큐 | [풀이](./CodingTest/BackJoon/Gold/BJ1655.cs) |
 | 2026-01-06 | 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | <img src="https://static.solved.ac/tier_small/8.svg" width="15"/> | DP | [풀이](./CodingTest/BackJoon/Silver/BJ2579.cs) |
 | 2026-01-06 | 12865 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | <img src="https://static.solved.ac/tier_small/11.svg" width="15"/> | DP | [풀이](./CodingTest/BackJoon/Gold/BJ12865.cs) |
 | 2026-01-05 | 9663 | [N-Queen](https://www.acmicpc.net/problem/9663) | <img src="https://static.solved.ac/tier_small/12.svg" width="15"/> | 백트래킹 | [풀이](./CodingTest/BackJoon/Gold/BJ9663.cs) |
