@@ -9,6 +9,10 @@
 
 | 날짜 | 문제 번호 | 문제 이름 | 난이도 | 알고리즘 | 풀이 코드 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
+| 2026-01-09 | 1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) | <img src="https://static.solved.ac/tier_small/9.svg" width="15"/> | 이분 탐색, 매개 변수 탐색 | [풀이](./CodingTest/BackJoon/Silver/BJ1654.cs) |
+| 2026-01-09 | 2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) | <img src="https://static.solved.ac/tier_small/9.svg" width="15"/> | 이분 탐색, 매개 변수 탐색 | [풀이](./CodingTest/BackJoon/Silver/BJ2805.cs) |
+| 2026-01-08 | 1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | <img src="https://static.solved.ac/tier_small/7.svg" width="15"/> | 정렬, 이분 탐색, 해시 | [풀이](./CodingTest/BackJoon/Silver/BJ1920.cs) |
+| 2026-01-08 | 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | <img src="https://static.solved.ac/tier_small/4.svg" width="15"/> | 브루트 포스 | [풀이](./CodingTest/BackJoon/Bronze/BJ2798.cs) |
 | 2026-01-08 | 1806 | [부분합](https://www.acmicpc.net/problem/1806) | <img src="https://static.solved.ac/tier_small/12.svg" width="15"/> | 투 포인터 | [풀이](./CodingTest/BackJoon/Gold/BJ1806.cs) |
 | 2026-01-08 | 2470 | [두 용액](https://www.acmicpc.net/problem/2470) | <img src="https://static.solved.ac/tier_small/11.svg" width="15"/> | 투 포인터 | [풀이](./CodingTest/BackJoon/Gold/BJ2470.cs) |
 | 2026-01-07 | 2003 | [수들의 합](https://www.acmicpc.net/problem/2003) | <img src="https://static.solved.ac/tier_small/7.svg" width="15"/> | 투 포인터 | [풀이](./CodingTest/BackJoon/Silver/BJ2003.cs) |
