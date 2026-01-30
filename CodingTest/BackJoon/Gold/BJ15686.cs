@@ -10,10 +10,12 @@ namespace BackJoon
             치킨 거리 = 도시의 모든 집에서 가까운 치킨집까지의 거리의 합
 
             ** 아이디어 ** 
-
+            브루트포스, 백트래킹
+            13개 중 M개를 고르는 경우의 수를 백트리킹으로 탐색
+            각 경우마다 선택된 치킨집들 중 최단 거리 계산
             
             ** 시간 복잡도 **
-            O(M * N)
+            조합 : ₁₃Cₘ
         */
 
         static StreamReader reader = new StreamReader(new BufferedStream(Console.OpenStandardInput()));
